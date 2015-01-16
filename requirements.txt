@@ -1,0 +1,16 @@
+beautifulsoup4==4.3.2
+BeautifulSoup==3.2.1
+Pillow==2.6.1
+PyYAML==3.11
+cssselect==0.9.1
+lxml==3.3.5
+requests==2.3.0
+six==1.8.0
+jieba==0.35
+pytz==2014.10
+python-dateutil==2.4.0
+psycopg2==2.5.3
+nltk==3.0.1
+responses==0.3.0
+mock==1.0.1
+newspaper==0.0.9.1
